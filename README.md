@@ -132,17 +132,7 @@ Voice Powered Form Filling Assistant.
 - OCR
 - Firebase
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dkt882&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkt882&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -160,7 +150,7 @@ Voice Powered Form Filling Assistant.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkt882&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DKT882&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
 </p>
 
