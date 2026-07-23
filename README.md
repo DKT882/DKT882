@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmender Kumar</h1>
-<h3 align="center">Full Stack Web Developer | AI & ML Learner | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | AI & ML Learner </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Learner;JavaScript+Developer;Node.js+%7C+Express.js+%7C+React;Always+Learning+New+Things+🚀" />
@@ -133,16 +133,6 @@ Voice Powered Form Filling Assistant.
 - Firebase
 
 
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dkt882&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
