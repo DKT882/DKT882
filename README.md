@@ -136,15 +136,7 @@ Voice Powered Form Filling Assistant.
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DKT882&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -158,15 +150,7 @@ Voice Powered Form Filling Assistant.
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dkt882&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
 
 ---
 
