@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- ==================== AESTHETIC RETRO SYNTHWAVE ANIME BANNER ==================== -->
-  <img src="assets/banner.jpg" width="100%" alt="Retro 90s Anime Synthwave Banner" />
+  <!-- ==================== CYBER-POP GEN-Z 3D ANIME BANNER ==================== -->
+  <img src="assets/banner.jpg" width="100%" alt="Cyber-Pop Gen-Z 3D Anime Banner" />
 
   <br/><br/>
 
@@ -13,17 +13,17 @@
   </h1>
 
   <p>
-    <code>⚡ FULL-STACK SYSTEMS ARCHITECT &bull; APPLIED AI & VISION BUILDER &bull; ダーメンダー・クマール ⚡</code>
+    <code>⚡ FULL-STACK SYSTEMS ARCHITECT // APPLIED AI & VISION BUILDER // ダーメンダー・クマール ⚡</code>
   </p>
 
-  <!-- ==================== DYNAMIC ORBITRON SYNTHWAVE TYPING ==================== -->
+  <!-- ==================== DYNAMIC ORBITRON NEON LIME TYPING ==================== -->
   <a href="https://github.com/dkt882">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=720&lines=%E2%9C%A8+BUILDING+NEXT-GEN+RESILIENT+SOFTWARE+%E2%9C%A8;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+POSTGRES;%F0%9F%A7%A0+COMPUTER+VISION+%E2%80%A2+OPENCV+%E2%80%A2+MEDIAPIPE+%E2%80%A2+AI;%F0%9F%93%B1+RESILIENT+OFFLINE-FIRST+MOBILE+%E2%80%A2+FLUTTER;%F0%9F%92%BB+ALWAYS+EXPLORING+%E2%80%A2+ALWAYS+CREATING+%F0%9F%8C%9F" alt="Synthwave Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2800&pause=1000&color=CCFF00&center=true&vCenter=true&width=740&lines=%E2%9A%A1+SHIPPING+HIGH-CONCURRENCY+SYSTEMS+%E2%9A%A1;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%5BREACT+%E2%80%A2+NODE+%E2%80%A2+POSTGRES%5D;%F0%9F%A7%A0+COMPUTER+VISION+%26+NEURAL+PIPELINES+%5BOPENCV+%E2%80%A2+AI%5D;%F0%9F%93%B1+RESILIENT+OFFLINE-FIRST+MOBILE+%5BFLUTTER%5D;%E2%9C%A8+TURNING+CAFFEINE+INTO+PRODUCTION+CODE+%F0%9F%94%A5" alt="Cyber-Pop Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== SLEEK COHESIVE PILL BADGES ==================== -->
+  <!-- ==================== CYBER-POP PILL BADGES ==================== -->
   <p>
     <a href="https://linkedin.com/in/dkt882" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -34,10 +34,10 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/dkt882" target="_blank">
-      <img src="https://img.shields.io/badge/Mainframe-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Mainframe-CCFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=13111C" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=dkt882&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=dkt882&label=Profile%20Views&color=7000FF&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -46,26 +46,26 @@
 
 <!-- ==================== 01 : ABOUT ME ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,50:7000FF,100:00F0FF&height=34&text=%E2%9C%A8%2001%20%3A%20ABOUT%20ME%20%2F%2F%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="About Me Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCFF00,50:FF007F,100:7000FF&height=34&text=%E2%9C%A8%2001%20%3A%20ABOUT%20ME%20%2F%2F%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="About Me Header" />
 </p>
 
 <table border="0" width="100%">
   <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="assets/lain_pc.gif" width="100%" alt="Anime Retro Hacker Terminal" />
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/avatar.jpg" width="100%" alt="3D Anime Boy Software Engineer Avatar" style="border-radius: 12px;" />
       <br/>
-      <sub><code>[ SYSTEM_STATUS : ACTIVE &bull; ONLINE ]</code></sub>
+      <sub><code>[ STATUS : 100% ONLINE &bull; READY TO SHIP ]</code></sub>
     </td>
-    <td width="64%" valign="top">
-      <h3>🌸 Konnichiwa, World! I'm Dharmender</h3>
+    <td width="65%" valign="top">
+      <h3>👾 Konnichiwa! I'm Dharmender</h3>
       <p>
-        I am a <b>Full-Stack Developer</b> and <b>Applied AI Engineer</b> driven by creating dependable, offline-first architectures, real-time computer vision pipelines, and human-centric software.
+        I am a <b>Full-Stack Developer</b> and <b>Applied AI Engineer</b> building high-performance, offline-first architectures, real-time computer vision pipelines, and human-centric software.
       </p>
       <ul>
-        <li>🔭 <b>Active Horizons</b>: Designing resilient crisis response platforms, assistive medical AI, and vernacular tools.</li>
-        <li>💡 <b>Core Arsenal</b>: Full-Stack Web (<b>React, Node.js, Express, PostgreSQL</b>), Mobile (<b>Flutter</b>), and Applied Vision (<b>OpenCV, MediaPipe</b>).</li>
-        <li>🧠 <b>Continuous Evolution</b>: Deepening algorithmic mastery with <b>Data Structures & Algorithms in Java</b> and exploring Agentic LLM workflows.</li>
-        <li>🎯 <b>Engineering Mantra</b>: Write clean, robust code; prioritize offline resilience; and create lasting real-world impact.</li>
+        <li>🚀 <b>Vibe Check</b>: Architecting resilient crisis response software, clinical accessibility AI, and multimodal tools.</li>
+        <li>🔮 <b>Core Arsenal</b>: Full-Stack Web (<b>React, Node.js, Express, PostgreSQL</b>), Cross-Platform Mobile (<b>Flutter</b>), and Vision (<b>OpenCV, MediaPipe</b>).</li>
+        <li>🧠 <b>Level Up</b>: Grinding Data Structures & Algorithms in <b>Java</b> + exploring modern Agentic LLM workflows.</li>
+        <li>🎯 <b>Manifesto</b>: Build fast, write clean code, prioritize offline availability, and create real human impact.</li>
       </ul>
     </td>
   </tr>
@@ -73,9 +73,9 @@
 
 <br/>
 
-<!-- ==================== 02 : TECH ARSENAL ==================== -->
+<!-- ==================== 02 : TECH MATRIX ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF007F&height=34&text=%F0%9F%92%BB%2002%20%3A%20TECH%20ARSENAL%20%2F%2F%20%E6%8A%80%E8%A1%93%E5%85%B5%E8%A3%85&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Tech Arsenal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000FF,50:FF007F,100:CCFF00&height=34&text=%F0%9F%92%BB%2002%20%3A%20TECH%20MATRIX%20%2F%2F%20%E6%8A%80%E8%A1%93%E5%85%B5%E8%A3%85&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Tech Matrix Header" />
 </p>
 
 <div align="center">
@@ -90,7 +90,7 @@
 
 <br/>
 
-| <span style="color:#FF007F;">DOMAIN</span> | <span style="color:#00F0FF;">TECHNOLOGIES & TOOLS</span> |
+| <span style="color:#CCFF00;">DOMAIN</span> | <span style="color:#FF007F;">TECHNOLOGIES & TOOLS</span> |
 | :--- | :--- |
 | **Languages** | Python &bull; Java (DSA) &bull; JavaScript (ES6+) &bull; TypeScript &bull; C/C++ &bull; SQL |
 | **Frontend & Mobile** | React.js &bull; Flutter (Dart) &bull; Tailwind CSS &bull; Bootstrap 5 &bull; Redux |
@@ -103,7 +103,7 @@
 
 <!-- ==================== 03 : FEATURED MISSIONS ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,50:7000FF,100:00F0FF&height=34&text=%F0%9F%9A%80%2003%20%3A%20FEATURED%20MISSIONS%20%2F%2F%20%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8B%99&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Featured Missions Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCFF00,50:FF007F,100:7000FF&height=34&text=%F0%9F%9A%80%2003%20%3A%20FEATURED%20MISSIONS%20%2F%2F%20%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8B%99&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Featured Missions Header" />
 </p>
 
 <table border="0" width="100%">
@@ -210,18 +210,10 @@
         <li><b>Automated Processing:</b> Webhook-driven payment reconciliation and inventory tracking.</li>
       </ul>
     </td>
-    <td width="42%" valign="top">
-      <h3>⚡ Autonomous Bots</h3>
-      <p><b>Event-Driven Asynchronous Dispatch Engines</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AsyncIO-00F0FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-      </p>
-      <ul>
-        <li><b>High-Throughput Dispatch:</b> Built with non-blocking Python <code>asyncio</code> for concurrent message processing.</li>
-        <li><b>Multi-Channel Management:</b> Automated moderation, user permission controls, and custom webhook triggers.</li>
-      </ul>
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/lain_pc.gif" width="100%" alt="Cyber Anime Terminal" />
+      <br/>
+      <sub><code>AUTOMATION_CORE : DISPATCH BOT</code></sub>
     </td>
   </tr>
 </table>
@@ -230,7 +222,7 @@
 
 <!-- ==================== 04 : ACTIVITY & TELEMETRY ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF007F&height=34&text=%F0%9F%93%8A%2004%20%3A%20ACTIVITY%20GRID%20%26%20TELEMETRY%20%2F%2F%20%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Activity Grid Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000FF,50:FF007F,100:CCFF00&height=34&text=%F0%9F%93%8A%2004%20%3A%20ACTIVITY%20GRID%20%26%20TELEMETRY%20%2F%2F%20%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Activity Grid Header" />
 </p>
 
 <div align="center">
@@ -247,10 +239,10 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=dkt882&show_icons=true&bg_color=12072B&title_color=FF007F&text_color=E0AAFF&icon_color=00F0FF&border_color=FF007F&count_private=true" alt="GitHub Stats" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dkt882&show_icons=true&bg_color=0B0B14&title_color=CCFF00&text_color=E0AAFF&icon_color=FF007F&border_color=CCFF00&count_private=true" alt="GitHub Stats" width="95%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkt882&layout=compact&bg_color=12072B&title_color=FF007F&text_color=E0AAFF&border_color=FF007F" alt="Top Languages" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkt882&layout=compact&bg_color=0B0B14&title_color=CCFF00&text_color=E0AAFF&border_color=CCFF00" alt="Top Languages" width="95%" />
       </td>
     </tr>
   </table>
@@ -260,11 +252,11 @@
 
 <!-- ==================== 05 : COMM-LINK ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,50:7000FF,100:00F0FF&height=34&text=%F0%9F%93%A1%2005%20%3A%20COMM-LINK%20%26%20TRANSMISSION%20%2F%2F%20%E9%80%9A%E4%BF%A1%E5%9B%9E%E7%B7%9A&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Comm-Link Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCFF00,50:FF007F,100:7000FF&height=34&text=%F0%9F%93%A1%2005%20%3A%20COMM-LINK%20%26%20TRANSMISSION%20%2F%2F%20%E9%80%9A%E4%BF%A1%E5%9B%9E%E7%B7%9A&fontSize=16&fontColor=ffffff&fontAlign=center&fontAlignY=55" width="100%" alt="Comm-Link Header" />
 </p>
 
 <div align="center">
-  <p><b style="color:#00F0FF; font-size:16px;">Initiating secure transmission. Available for high-impact software missions, engineering collaborations, and AI architectures.</b></p>
+  <p><b style="color:#CCFF00; font-size:16px;">Initiating secure transmission. Available for high-impact software missions, engineering collaborations, and AI architectures.</b></p>
 
   <p>
     <a href="https://linkedin.com/in/dkt882" target="_blank">
@@ -276,11 +268,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/dkt882" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB%20MAINFRAME-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB%20MAINFRAME-CCFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=13111C" alt="GitHub" />
     </a>
   </p>
 
   <br/>
 
-  <sub>⚡ Crafted with 90s Retro Anime & Synthwave Aesthetics &bull; <b>Dharmender Kumar (dkt882)</b> &bull; 2026</sub>
+  <sub>⚡ Engineered with Cyber-Pop 3D Anime Aesthetics &bull; <b>Dharmender Kumar (dkt882)</b> &bull; 2026</sub>
 </div>
